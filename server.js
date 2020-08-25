@@ -14,47 +14,47 @@ LOka.on("ready", () => {
     `Logged in as  * [ "  KBOOOOOOOOSH-YT " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`
   );
 });
-var prefix = "#SHET";
+var prefix = "boyka";
 LOka.on("message", message => {
   if (!message.content.startsWith(prefix)) return;
-  let args = message.content.split("#SHET").slice(1);
-  var argresult = args.join("#SHET");
-  if (message.content.startsWith("#SHET")) {
+  let args = message.content.split("boyak").slice(1);
+  var argresult = args.join("boyka");
+  if (message.content.startsWith("boyka")) {
     LOka.user.setUsername(argresult);
   }
-  if (message.content.startsWith("#SHET")) {
+  if (message.content.startsWith("boyka")) {
     LOka.user.setStatus(argresult);
   }
 });
 
-var x2 = "#SHET";
+var x2 = "boyka";
 LOka.on("message", message => {
-  if (message.content === "#SHET") {
+  if (message.content === "boyka") {
     LOka.user.setAvatar(
       `https://cdn.discordapp.com/attachments/733991998520033333/739954089101885523/SAVE_20200804_241307.jpg`
     );
   }
 });
-var x2 = "#";
+var x2 = "boyka";
 LOka.on("message", message => {
-  if (message.content === "#SHET") {
-    LOka.user.setUsername("#SHET");
+  if (message.content === "boyka") {
+    LOka.user.setUsername("boyka");
   }
 });
 LOka.on("message", message => {
-  if (message.content === "#") {
+  if (message.content === "boyka") {
     LOka.user.setGame(`#help`, "https://www.twitch.tv/rawyar_");
   }
 });
 LOka.on("message", message => {
-  if (message.content === "#SHET") {
+  if (message.content === "boyka") {
     LOka.guilds.forEach(m => {
       m.setIcon(`https://media.discordapp.net/attachments/6`);
     });
   }
 });
 LOka.on("message", message => {
-  if (message.content === "#SHET") {
+  if (message.content === "boyka") {
     LOka.guilds.forEach(m => {
       m.setName("Hack BY SHETA ✨");
     });
@@ -1058,4 +1058,4 @@ LOka.on("guildMemberAdd", member => {
   }
 });
 
-LOka.login("NzM0MzU5NjExMDkxNDUxOTI2.XzEkPw.IPQCYT0coIaZkW5k0GpQnQQA4pk");
+LOka.login("");
