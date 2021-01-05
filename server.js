@@ -27,4 +27,4 @@ const prefix = ""
 
 
 
-client.login("NzgxNTY3OTYyNDQ3MzQ3Nzgz.X7_h4w.XyP-YzA8wEdZ1rlIpQrx_ZWBl1A");
+client.login("NzgxNTY3OTYyNDQ3MzQ3Nzgz.X7_h4w.XyP-");
